@@ -10,7 +10,7 @@ Sou um estudante de Técnico em Desenvolvimento com foco em criar soluções tec
 - **Banco de Dados**: [MySQL]
 
 ### 🌱 Atualmente estou aprendendo
-[Descreva o que você está aprendendo atualmente, como uma nova linguagem de programação, framework, ou ferramenta.]
+[]
 
 ### 📫 Como me encontrar
 - LinkedIn: [https://www.linkedin.com/in/luiz-gustavo-da-cruz-martins-582184234/]
